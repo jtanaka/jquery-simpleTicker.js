@@ -1,0 +1,11 @@
+{
+    "name": "jquery-simpleticker",
+    "version": "1.0.0",
+    "main": "jquery.simpleTicker/jquery.simpleTicker.js",
+    "ignore": [
+        "demo/**"
+    ],
+    "dependencies": [
+        "jquery": "latest"  
+    ]
+}
